@@ -78,7 +78,7 @@
     <properties>
         <commons-compress-version>1.15</commons-compress-version>
         <versions.plugin.version>2.7</versions.plugin.version>
-        <commons.beanutils.version>1.9.1</commons.beanutils.version>
+        <commons.beanutils.version>1.11.0</commons.beanutils.version>
         <commons.lang3.version>3.11</commons.lang3.version>
     </properties>
 
