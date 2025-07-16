@@ -21,7 +21,7 @@
     </dependencies>
 
     <properties>
-        <commons-lang.version>3.14.0</commons-lang.version>
+        <commons-lang.version>3.18.0</commons-lang.version>
     </properties>
 
 </project>
