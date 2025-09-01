@@ -49,7 +49,7 @@
     </dependencies>
 
     <properties>
-        <sendgrid.version>4.10.2</sendgrid.version>
+        <sendgrid.version>4.10.3</sendgrid.version>
         <mockserver.version>5.15.0</mockserver.version>
     </properties>
 
