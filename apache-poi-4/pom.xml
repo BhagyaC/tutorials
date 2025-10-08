@@ -60,8 +60,8 @@
         <poi.version>5.3.0</poi.version>
         <poi-ooxml-schemas.version>4.1.2</poi-ooxml-schemas.version>
         <xmlbeans.version>5.2.0</xmlbeans.version>
-        <logback-classic.version>1.5.6</logback-classic.version>
-        <logback-core.version>1.5.6</logback-core.version>        
+        <logback-classic.version>1.5.14</logback-classic.version>
+        <logback-core.version>1.5.19</logback-core.version>        
     </properties>
 
 </project>
