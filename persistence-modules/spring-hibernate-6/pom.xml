@@ -103,7 +103,7 @@
         <spring-aspects.version>6.1.5</spring-aspects.version>
         <!-- persistence -->
         <mysql-connector-java.version>8.2.0</mysql-connector-java.version>
-        <tomcat-dbcp.version>9.0.80</tomcat-dbcp.version>
+        <tomcat-dbcp.version>9.0.109</tomcat-dbcp.version>
     </properties>
 
 </project>
