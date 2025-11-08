@@ -118,7 +118,7 @@
     <properties>
         <protobuf.version>3.19.2</protobuf.version>
         <protobuf-plugin.version>0.6.1</protobuf-plugin.version>
-        <grpc.version>1.63.0</grpc.version>
+        <grpc.version>1.69.0</grpc.version>
         <grpc.spring.version>3.1.0.RELEASE</grpc.spring.version>
         <jsonassert.version>1.5.1</jsonassert.version>
         <jakarta.annotation-api.version>3.0.0</jakarta.annotation-api.version>
