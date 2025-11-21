@@ -83,7 +83,7 @@
 
     <properties>
         <h2.version>2.3.232</h2.version>
-        <poi.version>5.3.0</poi.version>
+        <poi.version>5.5.0</poi.version>
         <poi-ooxml-schemas.version>4.1.2</poi-ooxml-schemas.version>
         <xmlbeans.version>5.2.0</xmlbeans.version>
         <fastexcel.version>0.18.3</fastexcel.version>
