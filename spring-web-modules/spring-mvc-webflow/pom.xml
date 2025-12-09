@@ -93,7 +93,7 @@
 
     <properties>
         <!-- Spring Web Flow -->
-        <spring.webflow>3.0.0</spring.webflow>
+        <spring.webflow>4.0.0</spring.webflow>
         <httpcore.version>4.4.5</httpcore.version>
         <httpclient.version>4.5.2</httpclient.version>
         <!-- Maven plugins -->
