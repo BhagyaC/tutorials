@@ -63,7 +63,7 @@
     <properties>
         <java.version>21</java.version>
         <spring-boot.version>3.3.0</spring-boot.version>
-        <firebase-admin.version>9.3.0</firebase-admin.version>
+        <firebase-admin.version>9.7.1</firebase-admin.version>
         <instancio.version>5.0.1</instancio.version>
     </properties>
 
