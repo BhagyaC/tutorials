@@ -21,7 +21,7 @@
         </dependency>
     </dependencies>
     <properties>
-        <assertj-guava.version>3.4.0</assertj-guava.version>
+        <assertj-guava.version>3.27.7</assertj-guava.version>
     </properties>
 
 </project>
