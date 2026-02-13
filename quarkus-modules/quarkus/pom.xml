@@ -191,7 +191,7 @@
     <properties>
         <quarkus.version>3.5.0</quarkus.version>
         <mockito.version>5.12.0</mockito.version>
-        <micrometer.prometheus.version>3.11.0</micrometer.prometheus.version>
+        <micrometer.prometheus.version>3.27.2</micrometer.prometheus.version>
         <jakarta.transaction-api.version>2.0.1</jakarta.transaction-api.version>
         <byte-buddy.version>1.14.17</byte-buddy.version>
     </properties>
