@@ -191,7 +191,7 @@
     </build>
 
     <properties>
-        <quarkus.version>3.10.2</quarkus.version>
+        <quarkus.version>3.27.2</quarkus.version>
         <citrus.version>4.2.1</citrus.version>
         <mapstruct.version>1.5.5.Final</mapstruct.version>
         <lombok.version>1.18.30</lombok.version>
